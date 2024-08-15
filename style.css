@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    
 }
 :root {
     font-family: "Alice", serif;
@@ -57,3 +58,17 @@ h1, h2 {
 ul{
     padding-left: 24px;
 }
+
+footer{
+  
+    color: #f0E8C2;
+    text-align: center;
+    padding-bottom: 48px;
+    text-decoration: none;
+    }
+
+    footer img {
+        vertical-align: middle;
+    }
+
+    
